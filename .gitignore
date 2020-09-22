@@ -4,3 +4,4 @@ node_modules
 *.socket
 *.pyc
 env_variables.py
+error.log
