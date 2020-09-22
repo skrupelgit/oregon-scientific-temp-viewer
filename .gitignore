@@ -3,3 +3,4 @@ node_modules
 .vscode
 *.socket
 *.pyc
+env_variables.py

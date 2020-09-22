@@ -55,7 +55,7 @@ def persistInDb(temp):
         time.sleep(10)
 
 
-cmd = "/home/pi/django/test"
+cmd = "/home/pi/django/temperaturas_rf/oregonPi"
 
 
 ## run it ##
